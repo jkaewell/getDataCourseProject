@@ -11,7 +11,8 @@
 ### run_analysis.R description:
 ### Notes:
 
-*  Library (dplyr) is used
+*  Library (dplyr) is used. 
+  * perform >install.packages("dplyr") if dplyr package has not been installed previously.
 *  All data files are read in from the "./data" sub-directory
 *  Dataframes are converted to datatables since the dplyr package is being used in this project,
 *  Dataframes are removed after conversion to datatables.
