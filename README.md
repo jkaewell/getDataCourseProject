@@ -17,7 +17,7 @@
 *  Dataframes are converted to datatables since the dplyr package is being used in this project,
 *  Dataframes are removed after conversion to datatables.
 *  Results file can be found at "./average.txt" 
-*  Use read.table("./average.txt) to read in the file into a R dataframe
+*  Use read.table("./average.txt") to read in the file into a R dataframe
 
 ### Sequence of operations:
 
