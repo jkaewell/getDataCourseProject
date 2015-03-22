@@ -18,6 +18,7 @@
 *  Dataframes are removed after conversion to datatables.
 *  Results file can be found at "./average.txt" 
 *  Use read.table("./average.txt") to read in the file into a R dataframe
+*  Dataset Codebook: "projectCodeBook.txt"
 
 ### Sequence of operations:
 
