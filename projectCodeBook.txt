@@ -13,7 +13,7 @@ The original Samsung Dataset can be found at the following URL:
 A full description of the dataset can be found at the following URL:
   http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 
-The set of variables that were estimated from these signals are: 
+The set of variables in the dataset were created using the following function:
 
 mean(): Mean value
 
